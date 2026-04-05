@@ -1,6 +1,6 @@
 # Malachi Barratt
 
-Recent cybersecurity graduate (BBA, Computer Information Systems — Georgia State University, 3.74 GPA) building cloud security automation and threat detection systems. AWS Certified Cloud Practitioner and CompTIA Security+ certified.
+Recent cybersecurity graduate (BBA, Computer Information Systems, Georgia State University, 3.74 GPA) building cloud security automation and threat detection systems. AWS Certified Cloud Practitioner and CompTIA Security+ certified.
 
 ## Current Focus
 
