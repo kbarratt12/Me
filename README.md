@@ -21,7 +21,7 @@ Recent cybersecurity graduate (BBA, Computer Information Systems, Georgia State 
 [View Projects](https://github.com/kbarratt12/Security-Projects)
 
 **Zeek/Suricata Automation** — PCAP analysis scripts for rapid IOC extraction and threat correlation  
-[View Scripts](https://github.com/kbarratt12/Security-Projects/Network Security Analysis/README.md)
+[View Scripts](https://github.com/kbarratt12/Security-Projects/Network-Security-Analysis/README.md)
 
 ## Certifications
 
